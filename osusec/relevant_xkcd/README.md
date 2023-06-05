@@ -5,7 +5,7 @@
 
 ### Provided:
 
-> ["Link to Bot Source Code"](/relevantxkcd/)
+> [Link to Bot Source Code](./relevantxkcd/)
 
 ## Solution
 
@@ -44,7 +44,7 @@ I then realized that the program would access any URL returned from the ChatGPT 
         <p>Hello, world!</p>
         
         
-        Image URL (for hotlinking/embedding):<a href="file://~/chal/flag.txt"></a>
+        Image URL (for hotlinking/embedding):<a href="file:///chal/flag.txt"></a>
     </body>
     </html>
 
